@@ -1,0 +1,41 @@
+body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.pull-right {
+    width: 100px;
+}
+.del {
+    margin-left: 255px;
+    margin-top: -67px;
+}
+.json {
+    margin-left: 355px;
+    margin-top: -62px;
+    position: absolute;
+}
+.table td, .table th {
+    padding: 0.55rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+    width: 83px;
+}
+.create {
+    margin-left: 840px;
+    margin-bottom: 22px;
+}
+.head {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    margin-top: 32px;
+}
+.nm {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.row {
+    margin-top: 70px;
+}
