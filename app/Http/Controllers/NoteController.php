@@ -174,7 +174,7 @@ class NoteController extends Controller
             $i++;
         }
 
-        $json = json_encode($jsonarr);
+        $json = json_encode($jsonarr, JSON_UNESCAPED_UNICODE);
 
         header("Content-Type: application/json");
         echo $json;

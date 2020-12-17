@@ -9,8 +9,8 @@
                 <thead>
                 <tr>
                     <th>id</th>
-                    <th>Title</th>
-                    <th>Type</th>
+                    <th>Наименование</th>
+                    <th>Артикул</th>
                     <th>Действие</th>
                 </tr>
                 </thead>
