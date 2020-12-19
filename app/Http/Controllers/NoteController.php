@@ -59,7 +59,7 @@ class NoteController extends Controller
             $iim = 'image'.$i;
             $file = $request->file($iim);
             if ($file != null) {
-                $file->move(public_path() . '\img', $file->getClientOriginalName());
+                $file->move(public_path() . '/img', $file->getClientOriginalName());
                 $img = $file->getClientOriginalName();
                 $image->img = $img;
                 $note->images()->save($image);
@@ -124,7 +124,7 @@ class NoteController extends Controller
             $id_im = 'id_img' . $i;
             $file = $request->file($im);
             if ($file != null) {
-                $file->move(public_path() . '\img', $file->getClientOriginalName());
+                $file->move(public_path() . '/img', $file->getClientOriginalName());
                 $img = $file->getClientOriginalName();
                 $id_image = $request->id_im;
 
