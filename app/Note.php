@@ -8,6 +8,6 @@ class Note extends Model
 {
     public function images()
     {
-       return $this->hasMany(image::class);
+       return $this->hasMany(Image::class);
     }
 }
