@@ -110,9 +110,8 @@ class NoteController extends Controller
             'image' => 'image|mimes:jpeg,png,jpg,gif,svg|max:2048',
         ]);
 
-        $note = new Note();
         $note = Note::find($id);
-        $image = new Image();
+        //$image = new Image();
         $note->name = $request->name;
         $note->artikul = $request->artikul;
         $note->save();
@@ -126,7 +125,7 @@ class NoteController extends Controller
             if ($file != null) {
                 $file->move(public_path() . '/img', $file->getClientOriginalName());
                 $img = $file->getClientOriginalName();
-                $id_image = $request->id_im;
+                //$id_image = $request->id_im;
 
                 $a = $request->input();
 
