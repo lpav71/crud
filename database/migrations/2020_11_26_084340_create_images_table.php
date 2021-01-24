@@ -17,7 +17,8 @@ class CreateImagesTable extends Migration
             $table->bigIncrements('id');
             $table->unsignedBigInteger('note_id');
             $table->foreign('note_id')
-                ->references('id')->on('notes')
+                ->references('id')
+                ->on('notes')
                 ->onDelete('cascade');
             $table->string('img');
             $table->timestamps();
