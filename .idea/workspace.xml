@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b4bdc46-cb56-4234-88bc-a86edce8a74b" name="Default" comment="Commit 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/NoteController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +169,14 @@
       <workItem from="1608390079163" duration="5087000" />
       <workItem from="1608469350611" duration="748000" />
       <workItem from="1608542199467" duration="19000" />
+      <workItem from="1608910043014" duration="111000" />
+      <workItem from="1609001972491" duration="112000" />
+      <workItem from="1609070671270" duration="213000" />
+      <workItem from="1609079343448" duration="129000" />
+      <workItem from="1609080011521" duration="76000" />
+      <workItem from="1609082659861" duration="277000" />
+      <workItem from="1609083669343" duration="61000" />
+      <workItem from="1609087140515" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1606426352113</created>
@@ -227,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608469399229</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit 1">
+      <created>1608910087824</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608910087825</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,10 +252,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="86" key="CommitChangelistDialog2" timestamp="1608469397132">
+    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2" timestamp="1608910085928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608469397132" />
+    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608910085928" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1608469401583">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
