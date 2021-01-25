@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b4bdc46-cb56-4234-88bc-a86edce8a74b" name="Default" comment="Commit 1">
-      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/css/site.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +185,7 @@
       <workItem from="1611526923346" duration="574000" />
       <workItem from="1611559495916" duration="15000" />
       <workItem from="1611585858131" duration="3005000" />
-      <workItem from="1611592247711" duration="2038000" />
+      <workItem from="1611592247711" duration="2764000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1606426352113</created>
@@ -284,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611594021645</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit 1">
+      <created>1611594462263</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611594462263</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,17 +303,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2" timestamp="1611594020685">
+    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2" timestamp="1611594460448">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611594020685" />
+    <state x="587" y="86" width="1106" height="869" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611594460448" />
     <state x="814" y="222" key="RollbackChangesDialog" timestamp="1611592454788">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="814" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611592454788" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611594023491">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611594464960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611594023491" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611594464960" />
   </component>
 </project>

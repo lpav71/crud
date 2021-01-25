@@ -22,7 +22,7 @@
                         <td>{{ $note->artikul }}</td>
                         <td>
                             <a href="/note/{{ $note->id }}" class="btn btn-info">Просмотр</a>
-                            <a href="/note/{{ $note->id }}/edit" class="btn btn-success">Редактирование</a>
+                            <a href="/note/{{ $note->id }}/edit" class="btn btn-success edit">Редактирование</a>
 
                             {{ Form::open(array('url' => 'note/' . $note->id, 'class' => 'pull-right')) }}
                             {{ Form::hidden('_method', 'DELETE') }}
